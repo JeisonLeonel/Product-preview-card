@@ -31,6 +31,7 @@ section {
 }
 .img>img {
     max-width: 100%;
+    width: 100%;
 }
 .img {
     overflow: hidden;
@@ -51,7 +52,6 @@ h1{
 .text-primero{
     font-family: var(--font-text-2);
     font-size: 0.875rem;
-    line-height: 2.5ch;
 }
 .text-segundo{
     font-family: var(--font-text-2);
